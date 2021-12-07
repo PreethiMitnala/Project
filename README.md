@@ -17,6 +17,9 @@ sno|name|sectiom
     2. Grey
     3. Blue
     4. purple
- 1. Places
- 2. Vehicles
- 3. Food
+ * Places
+   * New Zealand
+   * Switzerland
+   * Maldives
+ 💜
+ 🥰
